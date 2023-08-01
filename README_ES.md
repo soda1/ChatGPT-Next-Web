@@ -131,7 +131,7 @@ docker pull yidadaa/chatgpt-next-web
 
 docker run -d -p 3000:3000 \
    -e OPENAI_API_KEY="sk-xxxx" \
-   -e CODE="页面访问密码" \
+   -e CODE="页面访问密码1" \
    yidadaa/chatgpt-next-web
 ```
 
